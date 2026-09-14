@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=osAiAYahvh8
+prev_url: 14-creating-a-local-spark-cluster.md
+next_url: 16-connecting-spark-to-bigquery.md
 ---
 # Setting up a Dataproc Cluster
 

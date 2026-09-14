@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=HIm2BOj8C0Q
+prev_url: 15-setting-up-a-dataproc-cluster.md
+next_url: ../07-streaming/01-introduction.md
 ---
 # Connecting Spark to BigQuery
 

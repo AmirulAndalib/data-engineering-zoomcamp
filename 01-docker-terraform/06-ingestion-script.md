@@ -1,3 +1,7 @@
+---
+prev_url: 05-data-ingestion.md
+next_url: 07-pgadmin.md
+---
 # Creating the Data Ingestion Script
 
 Now let's convert the notebook to a Python script.

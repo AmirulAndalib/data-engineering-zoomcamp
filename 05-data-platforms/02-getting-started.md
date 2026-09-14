@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=JJwHKSidX_c
+prev_url: 01-introduction.md
+next_url: 03-nyc-taxi-pipeline.md
 ---
 # Getting Started with Bruin
 

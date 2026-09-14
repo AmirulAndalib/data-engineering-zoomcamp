@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=XCx0nDmhhxA
+prev_url: 08-core-concepts-assets.md
+next_url: 10-core-concepts-commands.md
 ---
 # Core Concepts: Variables
 

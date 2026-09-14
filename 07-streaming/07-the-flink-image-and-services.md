@@ -1,3 +1,7 @@
+---
+prev_url: 06-why-flink.md
+next_url: 08-the-pass-through-flink-job.md
+---
 # The Flink image and services
 
 Flink doesn't come with Python support out of the box. We need a custom

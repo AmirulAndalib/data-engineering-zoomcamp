@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=1pu_C_oOAMA
+prev_url: 07-load-taxi-data-to-postgres.md
+next_url: 09-etl-vs-elt.md
 ---
 # Local DB: Learn Scheduling and Backfills
 

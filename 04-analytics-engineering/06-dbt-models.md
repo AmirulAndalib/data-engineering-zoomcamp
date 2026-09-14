@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=JQYz-8sl1aQ
+prev_url: 05-dbt-sources.md
+next_url: 07-dbt-seeds-and-macros.md
 ---
 # dbt Models
 

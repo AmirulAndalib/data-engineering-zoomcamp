@@ -1,3 +1,7 @@
+---
+prev_url: 06-ingestion-script.md
+next_url: 08-dockerizing-ingestion.md
+---
 # pgAdmin - Database Management Tool
 
 `pgcli` is a handy tool but it's cumbersome to use for complex queries and database management. [`pgAdmin` is a web-based tool](https://www.pgadmin.org/) that makes it more convenient to access and manage our databases.

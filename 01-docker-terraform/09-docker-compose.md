@@ -1,3 +1,7 @@
+---
+prev_url: 08-dockerizing-ingestion.md
+next_url: 10-sql-refresher.md
+---
 # Docker Compose
 
 `docker-compose` allows us to launch multiple containers using a single configuration file, so that we don't have to run multiple complex `docker run` commands separately.

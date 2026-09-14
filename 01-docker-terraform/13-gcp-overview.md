@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=18jIzE41fJ4
+prev_url: 12-terraform-overview.md
+next_url: ../02-workflow-orchestration/01-what-is-workflow-orchestration.md
 ---
 # GCP Overview
 

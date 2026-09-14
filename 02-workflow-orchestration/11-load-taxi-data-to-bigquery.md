@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=52u9X_bfTAo
+prev_url: 10-setup-google-cloud-platform.md
+next_url: 12-schedule-and-backfill-full-dataset.md
 ---
 # GCP Workflow: Load Taxi Data to BigQuery
 

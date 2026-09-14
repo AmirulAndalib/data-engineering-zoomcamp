@@ -1,3 +1,6 @@
+---
+next_url: 02-virtual-environment.md
+---
 # Introduction to Docker
 
 Docker is a _containerization software_ that allows us to isolate software in a similar way to virtual machines but in a much leaner way.

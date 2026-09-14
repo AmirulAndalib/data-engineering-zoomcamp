@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=q0k_iz9kWsI
+prev_url: 02-getting-started.md
+next_url: 04-bruin-mcp.md
 ---
 # Building an End-to-End Pipeline with NYC Taxi Data
 

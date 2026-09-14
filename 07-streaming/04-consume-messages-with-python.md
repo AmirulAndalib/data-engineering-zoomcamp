@@ -1,3 +1,7 @@
+---
+prev_url: 03-produce-messages-to-kafka.md
+next_url: 05-save-events-to-postgresql.md
+---
 # Consume messages with Python
 
 Now let's read back the messages. The consumer receives raw bytes from

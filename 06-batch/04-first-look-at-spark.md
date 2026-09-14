@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=r_Sf6fCB40c
+prev_url: 03-installing-spark.md
+next_url: 05-spark-dataframes.md
 ---
 # First Look at Spark/PySpark
 

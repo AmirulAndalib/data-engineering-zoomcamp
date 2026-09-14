@@ -1,3 +1,7 @@
+---
+prev_url: 08-the-pass-through-flink-job.md
+next_url: 10-aggregation-with-tumbling-windows.md
+---
 # Offsets - earliest vs latest
 
 When Flink connects to Kafka, it needs to know where to start reading. This

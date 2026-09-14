@@ -1,3 +1,7 @@
+---
+prev_url: 17-deploy-to-the-cloud.md
+next_url: ../03-data-warehouse/01-data-warehouse-and-bigquery.md
+---
 # Additional Resources
 
 - Check [Kestra Docs](https://go.kestra.io/de-zoomcamp/docs)

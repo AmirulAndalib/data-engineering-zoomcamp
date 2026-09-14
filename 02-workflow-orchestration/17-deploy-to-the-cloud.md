@@ -1,3 +1,7 @@
+---
+prev_url: 16-retrieval-augmented-generation.md
+next_url: 18-additional-resources.md
+---
 # Bonus: Deploy to the Cloud (Optional)
 
 Now that we've got all our pipelines working and we know how to quickly create new flows with Kestra's AI Copilot, we can deploy Kestra to the cloud so it can continue to orchestrate our scheduled pipelines.

@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=Z9ZmmwtXDcU
+prev_url: 06-getting-started-pipeline.md
+next_url: 08-scheduling-and-backfills.md
 ---
 # Local DB: Load Taxi Data to Postgres
 

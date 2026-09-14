@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=68CipcZt7ZA
+prev_url: 07-sql-with-spark.md
+next_url: 09-groupby-in-spark.md
 ---
 # Anatomy of a Spark Cluster
 

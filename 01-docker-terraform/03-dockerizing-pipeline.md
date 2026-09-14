@@ -1,3 +1,7 @@
+---
+prev_url: 02-virtual-environment.md
+next_url: 04-postgres-docker.md
+---
 # Dockerizing the Pipeline
 
 Now let's containerize the script. Create the following `Dockerfile` file:

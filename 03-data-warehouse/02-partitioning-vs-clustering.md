@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=-CqXf7vhhDs
+prev_url: 01-data-warehouse-and-bigquery.md
+next_url: 03-bigquery-best-practices.md
 ---
 # Partitioning vs Clustering
 

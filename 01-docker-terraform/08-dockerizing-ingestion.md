@@ -1,3 +1,7 @@
+---
+prev_url: 07-pgadmin.md
+next_url: 09-docker-compose.md
+---
 # Dockerizing the Ingestion Script
 
 Now let's containerize the ingestion script so we can run it in Docker.

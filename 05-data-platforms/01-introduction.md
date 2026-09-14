@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=f6vg7lGqZx0
+prev_url: ../04-analytics-engineering/11-dbt-commands.md
+next_url: 02-getting-started.md
 ---
 # Introduction to Bruin
 

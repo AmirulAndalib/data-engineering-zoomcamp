@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=uzp_DiR4Sok
+prev_url: 06-core-concepts-projects.md
+next_url: 08-core-concepts-assets.md
 ---
 # Core Concepts: Pipelines
 

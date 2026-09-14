@@ -1,3 +1,7 @@
+---
+prev_url: 09-offsets-earliest-vs-latest.md
+next_url: 11-late-events-and-upserts.md
+---
 # Aggregation with tumbling windows
 
 Now let's do something our plain Python consumer can't easily do - windowed

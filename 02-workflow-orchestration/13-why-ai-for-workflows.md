@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=GHPtRDAv044
+prev_url: 12-schedule-and-backfill-full-dataset.md
+next_url: 14-context-engineering-with-chatgpt.md
 ---
 # Introduction: Why AI for Workflows?
 

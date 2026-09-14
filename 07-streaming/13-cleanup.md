@@ -1,3 +1,7 @@
+---
+prev_url: 12-understanding-window-types.md
+next_url: 14-questions-and-answers.md
+---
 # Cleanup
 
 

@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=VAHm0R_XjqI
+prev_url: 04-kestra-concepts.md
+next_url: 06-getting-started-pipeline.md
 ---
 # Orchestrate Python Code
 

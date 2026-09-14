@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=224xH7h8OaQ
+prev_url: 03-nyc-taxi-pipeline.md
+next_url: 05-bruin-cloud.md
 ---
 # Using Bruin MCP with AI Agents
 

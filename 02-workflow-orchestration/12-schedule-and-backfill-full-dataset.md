@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=b-6KhfWfk2M
+prev_url: 11-load-taxi-data-to-bigquery.md
+next_url: 13-why-ai-for-workflows.md
 ---
 # GCP Workflow: Schedule and Backfill Full Dataset
 

@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=ZElY5SoqrwI
+prev_url: 07-core-concepts-pipelines.md
+next_url: 09-core-concepts-variables.md
 ---
 # Core Concepts: Assets
 

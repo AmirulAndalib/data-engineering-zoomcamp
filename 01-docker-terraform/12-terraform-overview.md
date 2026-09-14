@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=18jIzE41fJ4
+prev_url: 11-cleanup.md
+next_url: 13-gcp-overview.md
 ---
 # Terraform Overview
 

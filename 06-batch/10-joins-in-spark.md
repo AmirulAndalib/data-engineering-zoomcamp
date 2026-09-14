@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=lu7TrqAWuH4
+prev_url: 09-groupby-in-spark.md
+next_url: 11-operations-on-spark-rdds.md
 ---
 # Joins in Spark
 

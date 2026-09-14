@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=eduHi1inM4s
+prev_url: 03-bigquery-best-practices.md
+next_url: 05-machine-learning-in-bigquery.md
 ---
 # Internals of BigQuery
 

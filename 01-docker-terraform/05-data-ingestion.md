@@ -1,3 +1,7 @@
+---
+prev_url: 04-postgres-docker.md
+next_url: 06-ingestion-script.md
+---
 # NY Taxi Dataset and Data Ingestion
 
 We will now create a Jupyter Notebook `notebook.ipynb` file which we will use to read a CSV file and export it to Postgres.

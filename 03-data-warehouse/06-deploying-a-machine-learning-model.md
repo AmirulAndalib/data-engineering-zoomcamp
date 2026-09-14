@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=BjARzEWaznU
+prev_url: 05-machine-learning-in-bigquery.md
+next_url: ../04-analytics-engineering/01-analytics-engineering-basics.md
 ---
 # Deploying a Machine Learning Model from BigQuery
 

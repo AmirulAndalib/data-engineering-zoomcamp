@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=Yyz293hBVcQ
+prev_url: 12-spark-rdd-mappartition.md
+next_url: 14-creating-a-local-spark-cluster.md
 ---
 # Connecting to Google Cloud Storage
 

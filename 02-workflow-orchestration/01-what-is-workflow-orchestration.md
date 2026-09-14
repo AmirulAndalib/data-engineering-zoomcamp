@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=-JLnp-iLins
+prev_url: ../01-docker-terraform/13-gcp-overview.md
+next_url: 02-what-is-kestra.md
 ---
 # What is Workflow Orchestration?
 

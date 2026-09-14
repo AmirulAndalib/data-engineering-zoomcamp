@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=wgPxC4UjoLM
+prev_url: 02-what-is-kestra.md
+next_url: 04-kestra-concepts.md
 ---
 # Installing Kestra
 

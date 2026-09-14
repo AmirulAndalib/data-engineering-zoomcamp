@@ -1,3 +1,7 @@
+---
+prev_url: 02-redpanda.md
+next_url: 04-consume-messages-with-python.md
+---
 # Produce messages to Kafka
 
 Initialize a Python project and add the dependencies we need:

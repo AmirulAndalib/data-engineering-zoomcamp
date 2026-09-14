@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=TLGFAOHpOYM
+prev_url: 09-etl-vs-elt.md
+next_url: 11-load-taxi-data-to-bigquery.md
 ---
 # Setup Google Cloud Platform (GCP)
 

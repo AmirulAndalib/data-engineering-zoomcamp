@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=FhaqbEOuQ8U
+prev_url: 01-introduction-to-batch-processing.md
+next_url: 03-installing-spark.md
 ---
 # Introduction to Spark
 

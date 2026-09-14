@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=-KmwrCqRhic
+prev_url: 05-orchestrate-python-code.md
+next_url: 07-load-taxi-data-to-postgres.md
 ---
 # Getting Started Pipeline
 

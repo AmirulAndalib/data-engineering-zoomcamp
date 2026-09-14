@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=Bdu-xIrF3OM
+prev_url: 10-joins-in-spark.md
+next_url: 12-spark-rdd-mappartition.md
 ---
 # Operations on Spark RDDs
 

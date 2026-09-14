@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=9qrDsY_2COo
+prev_url: 08-anatomy-of-a-spark-cluster.md
+next_url: 10-joins-in-spark.md
 ---
 # GroupBy in Spark
 

@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=ti3aC1m3rE8
+prev_url: 04-first-look-at-spark.md
+next_url: 06-preparing-taxi-data.md
 ---
 # Spark DataFrames
 

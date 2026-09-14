@@ -1,3 +1,7 @@
+---
+prev_url: 10-aggregation-with-tumbling-windows.md
+next_url: 12-understanding-window-types.md
+---
 # Late events and upserts
 
 The CSV producer sends events in order, so the watermark never has to

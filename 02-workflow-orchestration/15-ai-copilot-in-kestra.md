@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=3IbjHfC8bMg
+prev_url: 14-context-engineering-with-chatgpt.md
+next_url: 16-retrieval-augmented-generation.md
 ---
 # AI Copilot in Kestra
 

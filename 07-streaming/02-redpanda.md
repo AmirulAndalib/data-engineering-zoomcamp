@@ -1,3 +1,7 @@
+---
+prev_url: 01-introduction.md
+next_url: 03-produce-messages-to-kafka.md
+---
 # Redpanda - a Kafka-compatible broker
 
 Before we can produce or consume messages, we need a message broker -

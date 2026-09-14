@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=3nykPEs_V7E
+prev_url: 09-core-concepts-variables.md
+next_url: ../06-batch/01-introduction-to-batch-processing.md
 ---
 # Core Concepts: Commands
 

@@ -1,3 +1,7 @@
+---
+prev_url: 11-late-events-and-upserts.md
+next_url: 13-cleanup.md
+---
 # Understanding window types
 
 We used tumbling windows above. Flink supports three types:

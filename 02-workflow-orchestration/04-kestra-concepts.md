@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=MNOKVx8780E
+prev_url: 03-installing-kestra.md
+next_url: 05-orchestrate-python-code.md
 ---
 # Kestra Concepts
 

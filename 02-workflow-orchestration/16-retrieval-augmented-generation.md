@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=XuPDQ1UcNyI
+prev_url: 15-ai-copilot-in-kestra.md
+next_url: 17-deploy-to-the-cloud.md
 ---
 # Bonus: Retrieval Augmented Generation (RAG)
 

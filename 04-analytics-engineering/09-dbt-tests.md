@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=bvZ-rJm7uMU
+prev_url: 08-documentation.md
+next_url: 10-dbt-packages.md
 ---
 # dbt Tests
 

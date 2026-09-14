@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=hqUbB9c8sKg
+prev_url: 02-introduction-to-spark.md
+next_url: 04-first-look-at-spark.md
 ---
 # Installing Spark
 

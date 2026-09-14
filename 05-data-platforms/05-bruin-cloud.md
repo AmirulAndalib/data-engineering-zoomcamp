@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=uBqjLEwF8rc
+prev_url: 04-bruin-mcp.md
+next_url: 06-core-concepts-projects.md
 ---
 # Deploying to Bruin Cloud
 

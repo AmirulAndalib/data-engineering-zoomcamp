@@ -1,3 +1,7 @@
+---
+prev_url: 03-dockerizing-pipeline.md
+next_url: 05-data-ingestion.md
+---
 # Running PostgreSQL with Docker
 
 Now we want to do real data engineering. Let's use a Postgres database for that.

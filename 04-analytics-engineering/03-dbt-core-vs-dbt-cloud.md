@@ -1,3 +1,7 @@
+---
+prev_url: 02-what-is-dbt.md
+next_url: 04-dbt-project-structure.md
+---
 # dbt Core vs dbt Cloud
 
 

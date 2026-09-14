@@ -1,3 +1,7 @@
+---
+prev_url: 04-consume-messages-with-python.md
+next_url: 06-why-flink.md
+---
 # Save events to PostgreSQL
 
 Printing to the screen is fine for debugging, but let's save events to a

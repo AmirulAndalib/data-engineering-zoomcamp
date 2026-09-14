@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=dcHe5Fl3MF8
+prev_url: ../05-data-platforms/10-core-concepts-commands.md
+next_url: 02-introduction-to-spark.md
 ---
 # Introduction to Batch Processing
 

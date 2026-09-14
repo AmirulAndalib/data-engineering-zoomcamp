@@ -1,3 +1,7 @@
+---
+prev_url: 07-the-flink-image-and-services.md
+next_url: 09-offsets-earliest-vs-latest.md
+---
 # The pass-through Flink job
 
 Now let's do the same thing our Python consumer did, but with Flink.

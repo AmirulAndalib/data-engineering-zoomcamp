@@ -1,3 +1,7 @@
+---
+prev_url: 10-sql-refresher.md
+next_url: 12-terraform-overview.md
+---
 # Cleanup
 
 When you're done with the workshop, clean up Docker resources to free up disk space.

@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=CI3P4tAtru4
+prev_url: 05-spark-dataframes.md
+next_url: 07-sql-with-spark.md
 ---
 # Preparing Yellow and Green Taxi Data
 

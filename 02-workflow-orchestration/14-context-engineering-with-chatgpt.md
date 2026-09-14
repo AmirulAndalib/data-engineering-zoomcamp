@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=LmnfjGKwnVU
+prev_url: 13-why-ai-for-workflows.md
+next_url: 15-ai-copilot-in-kestra.md
 ---
 # Context Engineering with ChatGPT
 

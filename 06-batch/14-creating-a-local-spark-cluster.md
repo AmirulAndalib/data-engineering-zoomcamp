@@ -1,5 +1,7 @@
 ---
 video_url: https://www.youtube.com/watch?v=HXBwSlXo5IA
+prev_url: 13-connecting-to-google-cloud-storage.md
+next_url: 15-setting-up-a-dataproc-cluster.md
 ---
 # Creating a Local Spark Cluster
 
